@@ -41,6 +41,9 @@ int main(){
     printf("\n");
     printLL(head);
 
+    getchar();
+    getchar();
+    
     return 0;
 }
 
