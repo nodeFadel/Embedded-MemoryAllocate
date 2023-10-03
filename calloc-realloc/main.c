@@ -36,5 +36,8 @@ int main()
 
 
     free(memoryBlockPtr);
+    getchar();
+    getchar();
+    
     return 0;
 }
