@@ -19,7 +19,7 @@ How to allocate memory statically and dynamically to reserve memory.
     - The realloc is the same used here again but with the malloc instead of alloc.
         Then the allocation memory have been adjust to meet the relevant number of memory allocation.
 
-## The linkedlist is very crucial upon many other aspects.
+## The linkedlist is very crucial upon many other aspects.[https://github.com/nodeFadel/Embedded-MemoryAllocate/tree/main/linkedlist]
     ### LinkedList:
         - Create node Linked list.
         - Add node to the head.
