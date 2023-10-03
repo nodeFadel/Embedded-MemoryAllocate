@@ -65,6 +65,8 @@ int main()
 
     }
     free(arrOfCustomers);
+    getchar();
+    getchar();
     return 0;
 }
 
