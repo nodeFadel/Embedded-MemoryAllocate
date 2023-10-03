@@ -65,7 +65,10 @@ int main()
 
     }
     free(arrOfCustomers);
-    getchar();
+    while(getchar() != '\n'){
+
+    }
+    // getchar();
     getchar();
     return 0;
 }
